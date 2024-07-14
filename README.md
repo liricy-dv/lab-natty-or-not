@@ -11,3 +11,5 @@ Pedi ao Claude :"Tenho uma tarefa pra vc, elabore um blog sobre o resultado nega
 
 ### 🚀 Resultados
 Conteúdo imformal, feito para se parecer mais "amigo". 🤩
+
+[
