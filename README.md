@@ -1,4 +1,4 @@
-## IAs, gloriosas ou perigosas 🤨
+## I.A na educação , vai prestar 🤔?
 
 ### 📒 Descrição 
 Projeto incrível usando Inteligências Artificiais Generativas! 🤖
@@ -12,4 +12,5 @@ Pedi ao Claude :"Tenho uma tarefa pra vc, elabore um blog sobre o resultado nega
 ### 🚀 Resultados
 Conteúdo imformal, feito para se parecer mais "amigo". 🤩
 
-[
+## Blog aqui 👇
+[Clique aqui 🤗](https://github.com/liricy-dv/lab-natty-or-not/tree/main/blog)
